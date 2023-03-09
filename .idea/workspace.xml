@@ -9,23 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97849dd0-62d9-4149-a027-98e96950d25f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springbook/biz/board/BoardService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springbook/biz/board/BoardServiceClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springbook/biz/board/BoardVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springbook/biz/board/impl/BoardDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springbook/biz/board/impl/BoardServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springbook/biz/common/JDBCUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="97849dd0-62d9-4149-a027-98e96950d25f" name="Changes" comment="create legacy spring project build to maven" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +26,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -79,7 +70,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "settings.editor.selected.configurable": "CodeWithMe",
     "spring.configuration.checksum": "300a1a224385acfb318149b6498f746d",
     "vue.rearranger.settings.migration": "true"
   }
@@ -224,11 +215,23 @@
       <option name="presentableId" value="Default" />
       <updated>1678365392643</updated>
       <workItem from="1678365393677" duration="2070000" />
-      <workItem from="1678367471325" duration="4707000" />
+      <workItem from="1678367471325" duration="5145000" />
     </task>
+    <task id="LOCAL-00001" summary="create legacy spring project build to maven">
+      <created>1678372419472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678372419472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create legacy spring project build to maven" />
+    <option name="LAST_COMMIT_MESSAGE" value="create legacy spring project build to maven" />
   </component>
 </project>
